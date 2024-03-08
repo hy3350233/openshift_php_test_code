@@ -1,7 +1,7 @@
-<body bgcolor='blue'>  
+<body bgcolor='pink'>  
 <?php
 
-print("weclome to the ritika yadav profile");
+print("weclome to the Linuxworld!!!!!!!!!!!!!!!!!!");
 
 ?>
 <body>
